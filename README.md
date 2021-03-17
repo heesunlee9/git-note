@@ -1,2 +1,2 @@
 # git-note
-note on git
+git push -u origin BRANCH
